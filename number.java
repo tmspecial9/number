@@ -15,7 +15,7 @@ public class number
 	}
 	public static void tear(int x,int[] a)
 	{
-		for (int i=3;i>=0;i--)			//�N4���Ʃ��}
+		for (int i=3;i>=0;i--)			
 		{
 			int y=(x%10);
 			a[i]=y;
