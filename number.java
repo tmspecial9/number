@@ -8,9 +8,9 @@ public class number
 		{
 			int x=k;
 			boolean repeat=false;
-			tear(x,a);									//�N4���Ʃ��}
-			repeat=repeat(a);							//����4�ӼƦr���L����
-			frequency=output(repeat,frequency,k);		//�L���ƫh���X�A�C���X10������			
+			tear(x,a);									
+			repeat=repeat(a);							
+			frequency=output(repeat,frequency,k);				
 		}
 	}
 	public static void tear(int x,int[] a)
